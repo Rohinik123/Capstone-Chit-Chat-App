@@ -81,7 +81,7 @@ const GroupChatModal = ({ children }) => {
         },
       };
       const { data } = await axios.post(
-        `https://rohini-backend-5sds.onrender.com/api/chat/group`,
+        `https://capstone-server-0dtj.onrender.com/api/chat/group`,
         {
           name: groupChatName,
           users: JSON.stringify(selectedUsers.map((u) => u._id)),

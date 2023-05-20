@@ -45,7 +45,7 @@ const Login = () => {
       };
 
       const { data } = await axios.post(
-        "https://rohini-backend-5sds.onrender.com/api/user/login",
+        "https://capstone-server-0dtj.onrender.com/api/user/login",
         { email, password },
         config
       );

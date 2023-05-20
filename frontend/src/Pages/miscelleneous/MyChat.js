@@ -26,7 +26,7 @@ const MyChat = ({ fetchAgain }) => {
       };
 
       const { data } = await axios.get(
-        "https://rohini-backend-5sds.onrender.com/api/chat",
+        "https://capstone-server-0dtj.onrender.com/api/chat",
         config
       );
       // console.log(data);

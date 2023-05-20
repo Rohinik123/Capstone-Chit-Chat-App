@@ -79,7 +79,7 @@ const SideDraw = () => {
       };
 
       const { data } = await axios.get(
-        `https://rohini-backend-5sds.onrender.com/api/user?search=${search}`,
+        `https://capstone-server-0dtj.onrender.com/api/user?search=${search}`,
         config
       );
 
@@ -108,7 +108,7 @@ const SideDraw = () => {
         },
       };
       const { data } = await axios.post(
-        "https://rohini-backend-5sds.onrender.com/api/chat",
+        "https://capstone-server-0dtj.onrender.com/api/chat",
         { userId },
         config
       );
