@@ -1,4 +1,4 @@
-DEPLOY LINK : https://chat-app-rk.netlify.app/
+DEPLOY LINK : https://jetset-sms-rk.netlify.app
 
 Frontend: frontend is created by using react js
 we use the command npm start to start the client-side-server.

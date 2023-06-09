@@ -157,7 +157,7 @@ const SideDraw = () => {
           fontWeight="bold"
           color="white"
         >
-          Chit-Chat
+          JetSetSms App
         </Text>
         <div>
           <Menu>

@@ -43,7 +43,7 @@ const Home = () => {
           fontWeight="extrabold"
           alignItems="center"
           justifyContent="center"
-          marginLeft="185px"
+          marginLeft="160px"
         >
           JetSetSms-App
         </Text>
