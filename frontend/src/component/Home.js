@@ -45,7 +45,7 @@ const Home = () => {
           justifyContent="center"
           marginLeft="185px"
         >
-          Chit-Chat
+          JetSetSms-App
         </Text>
       </Box>
       <Box
