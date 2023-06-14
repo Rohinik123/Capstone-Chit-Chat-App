@@ -6,7 +6,7 @@ we use the command npm start to start the client-side-server.
 Backend: Backend is created by using node js
 we use the command nodemon index.js to start the server-part.
 
--------------------------------------------------Chit-Chat-App-------------------------------------------------
+-------------------------------------------------JetSetSms App-------------------------------------------------
 
 Chit-Chat-App the application is created by using (MERN) technology.in this app firstly I connected client-side-server with -server part.
 this Real-time chat application allow user to communicate with each other in real-time throught text,this app allows for more immediate messaging.
